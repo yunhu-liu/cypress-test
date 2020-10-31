@@ -1,4 +1,4 @@
-# CypressTestingSolution
+# CypressSolutionTesting
 End to End testing solution with Cypress
 
 ## Prerequisites
@@ -13,13 +13,13 @@ End to End testing solution with Cypress
 ## Git clone the repo to local directory
 ```
 cd /your/project/path
-git clone https://github.com/MaxnzWZ/CypressTestingSolution.git (through https)
+git clone https://github.com/MaxnzWZ/CypressSolutionTesting.git (through https)
 or
-git clone git@github.com:MaxnzWZ/CypressTestingSolution.git (through ssh) 
+git clone git@github.com:MaxnzWZ/CypressSolutionTesting.git (through ssh) 
 ``` 
 ## Install Cypress and other dependencies on local machine
 ```
-cd /your/project/path/CypressTestingSolution
+cd /your/project/path/CypressSolutionTesting
 npm install
 ```
 ## Verify installed Cypress
