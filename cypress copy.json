@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://www.westpac.co.nz/",
+  "viewportWidth": 1280,
+  "viewportHeight": 800,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 120000,
+  "chromeWebSecurity": false,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/results",
+    "overwrite": false,
+    "html": true,
+    "json": true
+  },
+  "projectId": "jzq43t"
+}
